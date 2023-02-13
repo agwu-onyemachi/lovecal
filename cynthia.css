@@ -1,0 +1,47 @@
+body {
+  background-color: red;
+  z-index: -1;
+}
+img {
+  width: 70%;
+  margin: 15%;
+  margin-right: 200%;
+  border-radius: 100%;
+}
+.bigHeading {
+  height: 200px;
+  font-family: paytone one;
+  font-size: larger;
+  padding: 0%;
+  border: 0;
+  text-align: center;
+  position: relative;
+}
+footer {
+  text-align: center;
+  background-color: #dcdedd;
+  margin: 0;
+  padding: 0;
+}
+h6,
+h5 {
+  margin: 0;
+  padding: 0;
+}
+.cynthia {
+  margin-left: 33%;
+}
+.img1 {
+  position: absolute;
+  width: 150px;
+}
+.img2 {
+  position: absolute;
+  width: 150px;
+  left: 30%;
+}
+.img3 {
+  position: absolute;
+  width: 150px;
+  left: 60%;
+}
